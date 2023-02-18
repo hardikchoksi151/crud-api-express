@@ -200,5 +200,5 @@ app.route('/api/users/:id')
     })
 
 app.listen(port, () => {
-    console.log(`Example app listening on port ${port}`)
+    console.log(`CRUD app listening on port ${port}`)
 })
