@@ -1,0 +1,32 @@
+[
+    {
+        "id": 2,
+        "name": "test user2",
+        "password": "test123",
+        "gender": "male",
+        "birthdate": "26/04/1996",
+        "age": 24,
+        "country": "india",
+        "phone": "+911112223334"
+    },
+    {
+        "id": 3,
+        "name": "test user3",
+        "password": "test123",
+        "gender": "male",
+        "birthdate": "26/04/1996",
+        "age": 24,
+        "country": "india",
+        "phone": "+911112223334"
+    },
+    {
+        "id": 1,
+        "name": "test user",
+        "password": "test123",
+        "gender": "male",
+        "birthdate": "26/04/1996",
+        "age": 24,
+        "country": "india",
+        "phone": "+911112223334"
+    }
+]
